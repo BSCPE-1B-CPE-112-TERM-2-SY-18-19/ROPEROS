@@ -21,10 +21,10 @@ class computer{
 		long j,count,x;
 		long pdtemp, bin, base, rem;
 		long rev, temp, key;
-		long caryl, digits;                 
+		long jade, digits;                 
 		long factors,t,i;
 		long rem1[100];
-		long jean;
+		long harris;
 };
 
 int main() {
